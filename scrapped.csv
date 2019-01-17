@@ -1,4 +1,58 @@
 scrutin_id,date,group,pour,contre,abstention
+1629,2019-01-17,Groupe La République en Marche,0,25,0
+1629,2019-01-17,Groupe Les Républicains,6,1,0
+1629,2019-01-17,Groupe du Mouvement Démocrate et apparentés,0,1,0
+1629,2019-01-17,Groupe Socialistes et apparentés,0,1,1
+1629,2019-01-17,"Groupe UDI, Agir et Indépendants",0,0,0
+1629,2019-01-17,Groupe La France insoumise,1,0,0
+1629,2019-01-17,Groupe de la Gauche démocrate et républicaine,2,0,0
+1629,2019-01-17,Groupe Libertés et Territoires,0,0,0
+1629,2019-01-17,Non inscrits,0,0,0
+1628,2019-01-17,Groupe La République en Marche,34,0,1
+1628,2019-01-17,Groupe Les Républicains,0,7,0
+1628,2019-01-17,Groupe du Mouvement Démocrate et apparentés,1,1,0
+1628,2019-01-17,Groupe Socialistes et apparentés,0,11,0
+1628,2019-01-17,"Groupe UDI, Agir et Indépendants",0,2,0
+1628,2019-01-17,Groupe La France insoumise,0,1,0
+1628,2019-01-17,Groupe de la Gauche démocrate et républicaine,0,2,0
+1628,2019-01-17,Groupe Libertés et Territoires,0,1,0
+1628,2019-01-17,Non inscrits,0,0,0
+1627,2019-01-16,Groupe La République en Marche,0,32,0
+1627,2019-01-16,Groupe Les Républicains,10,0,0
+1627,2019-01-16,Groupe du Mouvement Démocrate et apparentés,1,2,0
+1627,2019-01-16,Groupe Socialistes et apparentés,5,0,0
+1627,2019-01-16,"Groupe UDI, Agir et Indépendants",4,0,0
+1627,2019-01-16,Groupe La France insoumise,2,0,0
+1627,2019-01-16,Groupe de la Gauche démocrate et républicaine,1,0,0
+1627,2019-01-16,Groupe Libertés et Territoires,5,0,0
+1627,2019-01-16,Non inscrits,0,0,0
+1626,2019-01-16,Groupe La République en Marche,0,29,0
+1626,2019-01-16,Groupe Les Républicains,5,0,4
+1626,2019-01-16,Groupe du Mouvement Démocrate et apparentés,0,2,0
+1626,2019-01-16,Groupe Socialistes et apparentés,4,0,0
+1626,2019-01-16,"Groupe UDI, Agir et Indépendants",3,1,0
+1626,2019-01-16,Groupe La France insoumise,2,0,0
+1626,2019-01-16,Groupe de la Gauche démocrate et républicaine,1,0,0
+1626,2019-01-16,Groupe Libertés et Territoires,4,0,0
+1626,2019-01-16,Non inscrits,0,0,0
+1625,2019-01-16,Groupe La République en Marche,0,42,0
+1625,2019-01-16,Groupe Les Républicains,6,0,4
+1625,2019-01-16,Groupe du Mouvement Démocrate et apparentés,0,1,1
+1625,2019-01-16,Groupe Socialistes et apparentés,3,0,2
+1625,2019-01-16,"Groupe UDI, Agir et Indépendants",0,1,2
+1625,2019-01-16,Groupe La France insoumise,2,0,0
+1625,2019-01-16,Groupe de la Gauche démocrate et républicaine,3,0,0
+1625,2019-01-16,Groupe Libertés et Territoires,2,1,0
+1625,2019-01-16,Non inscrits,0,0,0
+1624,2019-01-16,Groupe La République en Marche,0,41,0
+1624,2019-01-16,Groupe Les Républicains,5,0,3
+1624,2019-01-16,Groupe du Mouvement Démocrate et apparentés,0,1,1
+1624,2019-01-16,Groupe Socialistes et apparentés,3,0,1
+1624,2019-01-16,"Groupe UDI, Agir et Indépendants",0,1,1
+1624,2019-01-16,Groupe La France insoumise,2,0,0
+1624,2019-01-16,Groupe de la Gauche démocrate et républicaine,2,0,0
+1624,2019-01-16,Groupe Libertés et Territoires,2,0,0
+1624,2019-01-16,Non inscrits,0,0,0
 1623,2019-01-16,Groupe La République en Marche,0,41,0
 1623,2019-01-16,Groupe Les Républicains,11,0,0
 1623,2019-01-16,Groupe du Mouvement Démocrate et apparentés,2,1,0
@@ -47,8 +101,8 @@ scrutin_id,date,group,pour,contre,abstention
 1618,2019-01-15,Groupe La République en Marche,0,28,0
 1618,2019-01-15,Groupe Les Républicains,5,0,0
 1618,2019-01-15,Groupe du Mouvement Démocrate et apparentés,0,2,0
-1618,2019-01-15,"Groupe UDI, Agir et Indépendants",0,2,0
 1618,2019-01-15,Groupe Socialistes et apparentés,1,0,0
+1618,2019-01-15,"Groupe UDI, Agir et Indépendants",0,2,0
 1618,2019-01-15,Groupe La France insoumise,2,0,0
 1618,2019-01-15,Groupe de la Gauche démocrate et républicaine,2,0,0
 1618,2019-01-15,Groupe Libertés et Territoires,0,2,0
@@ -56,8 +110,8 @@ scrutin_id,date,group,pour,contre,abstention
 1617,2019-01-15,Groupe La République en Marche,0,40,1
 1617,2019-01-15,Groupe Les Républicains,0,9,0
 1617,2019-01-15,Groupe du Mouvement Démocrate et apparentés,0,3,0
-1617,2019-01-15,"Groupe UDI, Agir et Indépendants",0,2,0
 1617,2019-01-15,Groupe Socialistes et apparentés,0,3,0
+1617,2019-01-15,"Groupe UDI, Agir et Indépendants",0,2,0
 1617,2019-01-15,Groupe La France insoumise,2,0,0
 1617,2019-01-15,Groupe de la Gauche démocrate et républicaine,2,0,0
 1617,2019-01-15,Groupe Libertés et Territoires,0,1,0
@@ -65,8 +119,8 @@ scrutin_id,date,group,pour,contre,abstention
 1616,2019-01-15,Groupe La République en Marche,0,39,0
 1616,2019-01-15,Groupe Les Républicains,0,8,3
 1616,2019-01-15,Groupe du Mouvement Démocrate et apparentés,0,3,0
-1616,2019-01-15,"Groupe UDI, Agir et Indépendants",0,2,0
 1616,2019-01-15,Groupe Socialistes et apparentés,0,2,0
+1616,2019-01-15,"Groupe UDI, Agir et Indépendants",0,2,0
 1616,2019-01-15,Groupe La France insoumise,2,0,0
 1616,2019-01-15,Groupe de la Gauche démocrate et républicaine,2,0,0
 1616,2019-01-15,Groupe Libertés et Territoires,0,0,0
