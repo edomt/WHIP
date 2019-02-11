@@ -1,4 +1,31 @@
 scrutin_id,date,group,pour,contre,abstention
+1665,2019-02-11,Groupe La République en Marche,46,0,0
+1665,2019-02-11,Groupe Les Républicains,0,0,16
+1665,2019-02-11,Groupe du Mouvement Démocrate et apparentés,6,0,0
+1665,2019-02-11,Groupe Socialistes et apparentés,0,5,0
+1665,2019-02-11,"Groupe UDI, Agir et Indépendants",0,0,2
+1665,2019-02-11,Groupe La France insoumise,0,2,0
+1665,2019-02-11,Groupe de la Gauche démocrate et républicaine,0,3,0
+1665,2019-02-11,Groupe Libertés et Territoires,0,1,0
+1665,2019-02-11,Non inscrits,0,3,0
+1664,2019-02-11,Groupe La République en Marche,0,44,0
+1664,2019-02-11,Groupe Les Républicains,8,0,0
+1664,2019-02-11,Groupe du Mouvement Démocrate et apparentés,0,7,0
+1664,2019-02-11,Groupe Socialistes et apparentés,6,0,0
+1664,2019-02-11,"Groupe UDI, Agir et Indépendants",0,2,0
+1664,2019-02-11,Groupe La France insoumise,3,0,0
+1664,2019-02-11,Groupe de la Gauche démocrate et républicaine,1,0,0
+1664,2019-02-11,Groupe Libertés et Territoires,0,1,0
+1664,2019-02-11,Non inscrits,2,0,0
+1663,2019-02-11,Groupe La République en Marche,0,42,0
+1663,2019-02-11,Groupe Les Républicains,0,8,2
+1663,2019-02-11,Groupe du Mouvement Démocrate et apparentés,0,6,0
+1663,2019-02-11,Groupe Socialistes et apparentés,4,0,0
+1663,2019-02-11,"Groupe UDI, Agir et Indépendants",0,2,0
+1663,2019-02-11,Groupe La France insoumise,5,0,0
+1663,2019-02-11,Groupe de la Gauche démocrate et républicaine,2,0,0
+1663,2019-02-11,Groupe Libertés et Territoires,0,1,0
+1663,2019-02-11,Non inscrits,0,0,1
 1662,2019-02-05,Groupe La République en Marche,241,0,50
 1662,2019-02-05,Groupe Les Républicains,97,2,4
 1662,2019-02-05,Groupe du Mouvement Démocrate et apparentés,37,1,4
