@@ -1,4 +1,13 @@
 scrutin_id,date,group,pour,contre,abstention
+1711,2019-02-20,Groupe La République en Marche,285,0,3
+1711,2019-02-20,Groupe Les Républicains,0,103,1
+1711,2019-02-20,Groupe du Mouvement Démocrate et apparentés,43,0,0
+1711,2019-02-20,Groupe Socialistes et apparentés,0,29,0
+1711,2019-02-20,"Groupe UDI, Agir et Indépendants",2,24,3
+1711,2019-02-20,Groupe La France insoumise,0,17,0
+1711,2019-02-20,Groupe de la Gauche démocrate et républicaine,0,16,0
+1711,2019-02-20,Groupe Libertés et Territoires,2,13,1
+1711,2019-02-20,Non inscrits,1,8,1
 1710,2019-02-19,Groupe La République en Marche,40,0,0
 1710,2019-02-19,Groupe Les Républicains,9,0,0
 1710,2019-02-19,Groupe du Mouvement Démocrate et apparentés,5,0,0
