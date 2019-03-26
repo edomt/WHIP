@@ -1,4 +1,31 @@
 scrutin_id,date,group,pour,contre,abstention
+1816,2019-03-26,Groupe La République en Marche,21,0,0
+1816,2019-03-26,Groupe Les Républicains,1,0,0
+1816,2019-03-26,Groupe du Mouvement Démocrate et apparentés,2,0,0
+1816,2019-03-26,Groupe Socialistes et apparentés,4,0,0
+1816,2019-03-26,"Groupe UDI, Agir et Indépendants",2,0,0
+1816,2019-03-26,Groupe La France insoumise,0,0,0
+1816,2019-03-26,Groupe de la Gauche démocrate et républicaine,0,0,0
+1816,2019-03-26,Groupe Libertés et Territoires,1,0,0
+1816,2019-03-26,Non inscrits,1,0,0
+1815,2019-03-26,Groupe La République en Marche,0,12,0
+1815,2019-03-26,Groupe Les Républicains,0,0,1
+1815,2019-03-26,Groupe du Mouvement Démocrate et apparentés,0,0,1
+1815,2019-03-26,Groupe Socialistes et apparentés,2,0,0
+1815,2019-03-26,"Groupe UDI, Agir et Indépendants",1,0,0
+1815,2019-03-26,Groupe La France insoumise,0,0,0
+1815,2019-03-26,Groupe de la Gauche démocrate et républicaine,0,0,0
+1815,2019-03-26,Groupe Libertés et Territoires,2,0,0
+1815,2019-03-26,Non inscrits,1,0,0
+1814,2019-03-26,Groupe La République en Marche,292,0,1
+1814,2019-03-26,Groupe Les Républicains,0,94,10
+1814,2019-03-26,Groupe du Mouvement Démocrate et apparentés,44,0,1
+1814,2019-03-26,Groupe Socialistes et apparentés,0,29,0
+1814,2019-03-26,"Groupe UDI, Agir et Indépendants",11,0,17
+1814,2019-03-26,Groupe La France insoumise,0,17,0
+1814,2019-03-26,Groupe de la Gauche démocrate et républicaine,0,15,1
+1814,2019-03-26,Groupe Libertés et Territoires,1,5,9
+1814,2019-03-26,Non inscrits,1,12,1
 1813,2019-03-22,Groupe La République en Marche,1,37,2
 1813,2019-03-22,Groupe Les Républicains,0,0,2
 1813,2019-03-22,Groupe du Mouvement Démocrate et apparentés,0,5,0
