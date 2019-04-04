@@ -1,4 +1,40 @@
 scrutin_id,date,group,pour,contre,abstention
+1827,2019-04-04,Groupe La République en Marche,45,0,1
+1827,2019-04-04,Groupe Les Républicains,0,29,0
+1827,2019-04-04,Groupe du Mouvement Démocrate et apparentés,4,0,1
+1827,2019-04-04,Groupe Socialistes et apparentés,0,1,0
+1827,2019-04-04,"Groupe UDI, Agir et Indépendants",0,0,1
+1827,2019-04-04,Groupe La France insoumise,0,0,0
+1827,2019-04-04,Groupe de la Gauche démocrate et républicaine,0,1,0
+1827,2019-04-04,Groupe Libertés et Territoires,0,1,0
+1827,2019-04-04,Non inscrits,0,1,0
+1826,2019-04-04,Groupe La République en Marche,32,0,0
+1826,2019-04-04,Groupe Les Républicains,25,0,0
+1826,2019-04-04,Groupe du Mouvement Démocrate et apparentés,0,3,0
+1826,2019-04-04,Groupe Socialistes et apparentés,0,0,0
+1826,2019-04-04,"Groupe UDI, Agir et Indépendants",3,0,0
+1826,2019-04-04,Groupe La France insoumise,0,0,0
+1826,2019-04-04,Groupe de la Gauche démocrate et républicaine,0,0,0
+1826,2019-04-04,Groupe Libertés et Territoires,3,0,0
+1826,2019-04-04,Non inscrits,1,0,0
+1825,2019-04-04,Groupe La République en Marche,0,31,0
+1825,2019-04-04,Groupe Les Républicains,26,0,0
+1825,2019-04-04,Groupe du Mouvement Démocrate et apparentés,0,3,0
+1825,2019-04-04,Groupe Socialistes et apparentés,0,0,0
+1825,2019-04-04,"Groupe UDI, Agir et Indépendants",1,0,0
+1825,2019-04-04,Groupe La France insoumise,0,0,0
+1825,2019-04-04,Groupe de la Gauche démocrate et républicaine,0,0,0
+1825,2019-04-04,Groupe Libertés et Territoires,2,0,0
+1825,2019-04-04,Non inscrits,1,0,0
+1824,2019-04-04,Groupe La République en Marche,78,0,0
+1824,2019-04-04,Groupe Les Républicains,0,44,0
+1824,2019-04-04,Groupe du Mouvement Démocrate et apparentés,12,0,0
+1824,2019-04-04,Groupe Socialistes et apparentés,0,2,0
+1824,2019-04-04,"Groupe UDI, Agir et Indépendants",0,3,1
+1824,2019-04-04,Groupe La France insoumise,0,1,0
+1824,2019-04-04,Groupe de la Gauche démocrate et républicaine,0,1,0
+1824,2019-04-04,Groupe Libertés et Territoires,0,2,0
+1824,2019-04-04,Non inscrits,0,1,0
 1823,2019-03-29,Groupe La République en Marche,15,0,0
 1823,2019-03-29,Groupe Les Républicains,0,0,0
 1823,2019-03-29,Groupe du Mouvement Démocrate et apparentés,3,0,0
