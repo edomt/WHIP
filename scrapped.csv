@@ -1,4 +1,13 @@
 scrutin_id,date,group,pour,contre,abstention
+1840,2019-04-30,Groupe La République en Marche,276,0,0
+1840,2019-04-30,Groupe Les Républicains,0,102,0
+1840,2019-04-30,Groupe du Mouvement Démocrate et apparentés,44,0,0
+1840,2019-04-30,Groupe Socialistes et apparentés,0,26,0
+1840,2019-04-30,"Groupe UDI, Agir et Indépendants",12,1,14
+1840,2019-04-30,Groupe La France insoumise,0,17,0
+1840,2019-04-30,Groupe de la Gauche démocrate et républicaine,1,12,0
+1840,2019-04-30,Groupe Libertés et Territoires,0,13,3
+1840,2019-04-30,Non inscrits,1,10,0
 1839,2019-04-11,Groupe La République en Marche,121,0,1
 1839,2019-04-11,Groupe Les Républicains,2,13,2
 1839,2019-04-11,Groupe du Mouvement Démocrate et apparentés,17,0,0
