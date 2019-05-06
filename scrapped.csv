@@ -1,4 +1,58 @@
 scrutin_id,date,group,pour,contre,abstention
+1846,2019-05-06,Groupe La République en Marche,51,0,0
+1846,2019-05-06,Groupe Les Républicains,13,0,0
+1846,2019-05-06,Groupe du Mouvement Démocrate et apparentés,5,0,0
+1846,2019-05-06,Groupe Socialistes et apparentés,3,0,0
+1846,2019-05-06,"Groupe UDI, Agir et Indépendants",2,0,1
+1846,2019-05-06,Groupe La France insoumise,0,0,0
+1846,2019-05-06,Groupe de la Gauche démocrate et républicaine,1,0,0
+1846,2019-05-06,Groupe Libertés et Territoires,1,0,0
+1846,2019-05-06,Non inscrits,0,0,0
+1845,2019-05-06,Groupe La République en Marche,0,50,0
+1845,2019-05-06,Groupe Les Républicains,14,0,0
+1845,2019-05-06,Groupe du Mouvement Démocrate et apparentés,3,0,0
+1845,2019-05-06,Groupe Socialistes et apparentés,3,0,0
+1845,2019-05-06,"Groupe UDI, Agir et Indépendants",2,0,1
+1845,2019-05-06,Groupe La France insoumise,0,0,0
+1845,2019-05-06,Groupe de la Gauche démocrate et républicaine,0,0,2
+1845,2019-05-06,Groupe Libertés et Territoires,1,0,0
+1845,2019-05-06,Non inscrits,0,0,0
+1844,2019-05-06,Groupe La République en Marche,0,39,0
+1844,2019-05-06,Groupe Les Républicains,13,0,0
+1844,2019-05-06,Groupe du Mouvement Démocrate et apparentés,0,5,1
+1844,2019-05-06,Groupe Socialistes et apparentés,3,0,0
+1844,2019-05-06,"Groupe UDI, Agir et Indépendants",2,1,0
+1844,2019-05-06,Groupe La France insoumise,0,0,0
+1844,2019-05-06,Groupe de la Gauche démocrate et républicaine,0,0,0
+1844,2019-05-06,Groupe Libertés et Territoires,1,0,0
+1844,2019-05-06,Non inscrits,0,1,0
+1843,2019-05-06,Groupe La République en Marche,0,39,0
+1843,2019-05-06,Groupe Les Républicains,13,0,0
+1843,2019-05-06,Groupe du Mouvement Démocrate et apparentés,0,6,0
+1843,2019-05-06,Groupe Socialistes et apparentés,3,0,0
+1843,2019-05-06,"Groupe UDI, Agir et Indépendants",2,1,0
+1843,2019-05-06,Groupe La France insoumise,0,0,0
+1843,2019-05-06,Groupe de la Gauche démocrate et républicaine,0,0,0
+1843,2019-05-06,Groupe Libertés et Territoires,1,0,0
+1843,2019-05-06,Non inscrits,0,1,0
+1842,2019-05-06,Groupe La République en Marche,0,36,0
+1842,2019-05-06,Groupe Les Républicains,15,0,0
+1842,2019-05-06,Groupe du Mouvement Démocrate et apparentés,0,5,0
+1842,2019-05-06,Groupe Socialistes et apparentés,2,0,0
+1842,2019-05-06,"Groupe UDI, Agir et Indépendants",0,1,1
+1842,2019-05-06,Groupe La France insoumise,0,0,0
+1842,2019-05-06,Groupe de la Gauche démocrate et républicaine,0,0,2
+1842,2019-05-06,Groupe Libertés et Territoires,2,0,0
+1842,2019-05-06,Non inscrits,0,0,0
+1841,2019-05-06,Groupe La République en Marche,0,27,0
+1841,2019-05-06,Groupe Les Républicains,10,0,0
+1841,2019-05-06,Groupe du Mouvement Démocrate et apparentés,0,6,0
+1841,2019-05-06,Groupe Socialistes et apparentés,3,0,0
+1841,2019-05-06,"Groupe UDI, Agir et Indépendants",1,1,1
+1841,2019-05-06,Groupe La France insoumise,0,0,0
+1841,2019-05-06,Groupe de la Gauche démocrate et républicaine,0,0,1
+1841,2019-05-06,Groupe Libertés et Territoires,2,0,0
+1841,2019-05-06,Non inscrits,0,0,0
 1840,2019-04-30,Groupe La République en Marche,276,0,0
 1840,2019-04-30,Groupe Les Républicains,0,102,0
 1840,2019-04-30,Groupe du Mouvement Démocrate et apparentés,44,0,0
