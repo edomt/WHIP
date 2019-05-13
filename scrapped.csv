@@ -1,4 +1,22 @@
 scrutin_id,date,group,pour,contre,abstention
+1891,2019-05-13,Groupe La République en Marche,0,45,0
+1891,2019-05-13,Groupe Les Républicains,9,0,0
+1891,2019-05-13,Groupe du Mouvement Démocrate et apparentés,0,7,0
+1891,2019-05-13,Groupe Socialistes et apparentés,6,0,0
+1891,2019-05-13,"Groupe UDI, Agir et Indépendants",2,0,0
+1891,2019-05-13,Groupe La France insoumise,2,0,0
+1891,2019-05-13,Groupe de la Gauche démocrate et républicaine,3,0,0
+1891,2019-05-13,Groupe Libertés et Territoires,3,1,0
+1891,2019-05-13,Non inscrits,1,0,0
+1890,2019-05-13,Groupe La République en Marche,0,39,1
+1890,2019-05-13,Groupe Les Républicains,6,0,1
+1890,2019-05-13,Groupe du Mouvement Démocrate et apparentés,0,6,0
+1890,2019-05-13,Groupe Socialistes et apparentés,6,0,1
+1890,2019-05-13,"Groupe UDI, Agir et Indépendants",0,1,1
+1890,2019-05-13,Groupe La France insoumise,2,0,0
+1890,2019-05-13,Groupe de la Gauche démocrate et républicaine,3,0,0
+1890,2019-05-13,Groupe Libertés et Territoires,3,1,0
+1890,2019-05-13,Non inscrits,0,0,1
 1889,2019-05-10,Groupe La République en Marche,28,0,1
 1889,2019-05-10,Groupe Les Républicains,0,1,6
 1889,2019-05-10,Groupe du Mouvement Démocrate et apparentés,2,1,0
