@@ -1,4 +1,13 @@
 scrutin_id,date,group,pour,contre,abstention
+1909,2019-05-17,Groupe La République en Marche,24,0,1
+1909,2019-05-17,Groupe Les Républicains,0,1,0
+1909,2019-05-17,Groupe du Mouvement Démocrate et apparentés,1,0,0
+1909,2019-05-17,Groupe Socialistes et apparentés,0,2,0
+1909,2019-05-17,"Groupe UDI, Agir et Indépendants",0,0,1
+1909,2019-05-17,Groupe La France insoumise,0,1,0
+1909,2019-05-17,Groupe de la Gauche démocrate et républicaine,0,1,0
+1909,2019-05-17,Groupe Libertés et Territoires,0,0,0
+1909,2019-05-17,Non inscrits,0,0,1
 1908,2019-05-17,Groupe La République en Marche,1,25,0
 1908,2019-05-17,Groupe Les Républicains,1,0,0
 1908,2019-05-17,Groupe du Mouvement Démocrate et apparentés,0,1,0
