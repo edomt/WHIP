@@ -1,4 +1,13 @@
 scrutin_id,date,group,pour,contre,abstention
+1926,2019-06-04,Groupe La République en Marche,284,0,1
+1926,2019-06-04,Groupe Les Républicains,0,0,0
+1926,2019-06-04,Groupe du Mouvement Démocrate et apparentés,38,0,6
+1926,2019-06-04,Groupe Socialistes et apparentés,0,0,0
+1926,2019-06-04,"Groupe UDI, Agir et Indépendants",8,0,0
+1926,2019-06-04,Groupe La France insoumise,0,0,0
+1926,2019-06-04,Groupe de la Gauche démocrate et républicaine,0,0,0
+1926,2019-06-04,Groupe Libertés et Territoires,16,0,0
+1926,2019-06-04,Non inscrits,1,8,0
 1925,2019-05-28,Groupe La République en Marche,0,59,2
 1925,2019-05-28,Groupe Les Républicains,18,0,0
 1925,2019-05-28,Groupe du Mouvement Démocrate et apparentés,2,5,3
