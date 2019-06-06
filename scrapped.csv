@@ -1,4 +1,22 @@
 scrutin_id,date,group,pour,contre,abstention
+1930,2019-06-06,Groupe La République en Marche,30,0,1
+1930,2019-06-06,Groupe Les Républicains,5,0,0
+1930,2019-06-06,Groupe du Mouvement Démocrate et apparentés,3,0,0
+1930,2019-06-06,Groupe Socialistes et apparentés,0,0,1
+1930,2019-06-06,"Groupe UDI, Agir et Indépendants",0,0,1
+1930,2019-06-06,Groupe La France insoumise,0,0,1
+1930,2019-06-06,Groupe de la Gauche démocrate et républicaine,0,0,0
+1930,2019-06-06,Groupe Libertés et Territoires,1,0,0
+1930,2019-06-06,Non inscrits,1,0,0
+1929,2019-06-06,Groupe La République en Marche,39,0,0
+1929,2019-06-06,Groupe Les Républicains,3,0,6
+1929,2019-06-06,Groupe du Mouvement Démocrate et apparentés,4,0,0
+1929,2019-06-06,Groupe Socialistes et apparentés,3,0,0
+1929,2019-06-06,"Groupe UDI, Agir et Indépendants",3,0,0
+1929,2019-06-06,Groupe La France insoumise,0,0,0
+1929,2019-06-06,Groupe de la Gauche démocrate et républicaine,2,0,0
+1929,2019-06-06,Groupe Libertés et Territoires,2,0,0
+1929,2019-06-06,Non inscrits,1,0,1
 1928,2019-06-05,Groupe La République en Marche,50,0,0
 1928,2019-06-05,Groupe Les Républicains,0,23,0
 1928,2019-06-05,Groupe du Mouvement Démocrate et apparentés,5,0,0
