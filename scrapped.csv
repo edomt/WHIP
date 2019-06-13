@@ -1,4 +1,49 @@
 scrutin_id,date,group,pour,contre,abstention
+1946,2019-06-13,Groupe La République en Marche,32,0,0
+1946,2019-06-13,Groupe Les Républicains,0,0,3
+1946,2019-06-13,Groupe du Mouvement Démocrate et apparentés,3,0,0
+1946,2019-06-13,Groupe Socialistes et apparentés,0,0,2
+1946,2019-06-13,Groupe UDI et Indépendants,0,0,0
+1946,2019-06-13,Groupe Libertés et Territoires,0,0,0
+1946,2019-06-13,Groupe La France insoumise,0,1,0
+1946,2019-06-13,Groupe de la Gauche démocrate et républicaine,0,0,2
+1946,2019-06-13,Non inscrits,0,0,1
+1945,2019-06-13,Groupe La République en Marche,0,26,1
+1945,2019-06-13,Groupe Les Républicains,0,0,4
+1945,2019-06-13,Groupe du Mouvement Démocrate et apparentés,0,1,0
+1945,2019-06-13,Groupe Socialistes et apparentés,1,0,0
+1945,2019-06-13,Groupe UDI et Indépendants,0,0,0
+1945,2019-06-13,Groupe Libertés et Territoires,0,0,0
+1945,2019-06-13,Groupe La France insoumise,2,0,0
+1945,2019-06-13,Groupe de la Gauche démocrate et républicaine,3,0,0
+1945,2019-06-13,Non inscrits,0,0,1
+1944,2019-06-13,Groupe La République en Marche,1,28,0
+1944,2019-06-13,Groupe Les Républicains,3,0,0
+1944,2019-06-13,Groupe du Mouvement Démocrate et apparentés,0,1,0
+1944,2019-06-13,Groupe Socialistes et apparentés,2,0,0
+1944,2019-06-13,Groupe UDI et Indépendants,0,0,0
+1944,2019-06-13,Groupe Libertés et Territoires,2,0,0
+1944,2019-06-13,Groupe La France insoumise,2,0,0
+1944,2019-06-13,Groupe de la Gauche démocrate et républicaine,2,0,0
+1944,2019-06-13,Non inscrits,1,0,0
+1943,2019-06-13,Groupe La République en Marche,0,21,0
+1943,2019-06-13,Groupe Les Républicains,0,7,2
+1943,2019-06-13,Groupe du Mouvement Démocrate et apparentés,0,2,0
+1943,2019-06-13,Groupe Socialistes et apparentés,3,0,0
+1943,2019-06-13,Groupe UDI et Indépendants,0,1,0
+1943,2019-06-13,Groupe Libertés et Territoires,1,0,1
+1943,2019-06-13,Groupe La France insoumise,1,0,0
+1943,2019-06-13,Groupe de la Gauche démocrate et républicaine,1,0,0
+1943,2019-06-13,Non inscrits,0,1,0
+1942,2019-06-13,Groupe La République en Marche,24,0,0
+1942,2019-06-13,Groupe Les Républicains,6,0,0
+1942,2019-06-13,Groupe du Mouvement Démocrate et apparentés,2,0,0
+1942,2019-06-13,Groupe Socialistes et apparentés,1,0,0
+1942,2019-06-13,Groupe UDI et Indépendants,1,0,0
+1942,2019-06-13,Groupe Libertés et Territoires,1,0,0
+1942,2019-06-13,Groupe La France insoumise,0,0,1
+1942,2019-06-13,Groupe de la Gauche démocrate et républicaine,0,0,2
+1942,2019-06-13,Non inscrits,2,0,0
 1941,2019-06-12,Groupe La République en Marche,304,0,0
 1941,2019-06-12,Groupe Les Républicains,0,81,22
 1941,2019-06-12,Groupe du Mouvement Démocrate et apparentés,46,0,0
