@@ -1,4 +1,76 @@
 scrutin_id,date,group,pour,contre,abstention
+1954,2019-06-14,Groupe La République en Marche,25,0,0
+1954,2019-06-14,Groupe Les Républicains,1,0,1
+1954,2019-06-14,Groupe du Mouvement Démocrate et apparentés,5,0,0
+1954,2019-06-14,Groupe Socialistes et apparentés,0,0,1
+1954,2019-06-14,Groupe UDI et Indépendants,1,0,0
+1954,2019-06-14,Groupe Libertés et Territoires,1,0,0
+1954,2019-06-14,Groupe La France insoumise,0,0,0
+1954,2019-06-14,Groupe de la Gauche démocrate et républicaine,0,1,0
+1954,2019-06-14,Non inscrits,0,1,0
+1953,2019-06-14,Groupe La République en Marche,22,0,0
+1953,2019-06-14,Groupe Les Républicains,1,0,0
+1953,2019-06-14,Groupe du Mouvement Démocrate et apparentés,2,0,0
+1953,2019-06-14,Groupe Socialistes et apparentés,1,0,1
+1953,2019-06-14,Groupe UDI et Indépendants,0,0,0
+1953,2019-06-14,Groupe Libertés et Territoires,2,0,0
+1953,2019-06-14,Groupe La France insoumise,0,0,0
+1953,2019-06-14,Groupe de la Gauche démocrate et républicaine,1,0,0
+1953,2019-06-14,Non inscrits,0,0,0
+1952,2019-06-14,Groupe La République en Marche,28,0,0
+1952,2019-06-14,Groupe Les Républicains,3,0,0
+1952,2019-06-14,Groupe du Mouvement Démocrate et apparentés,3,0,0
+1952,2019-06-14,Groupe Socialistes et apparentés,1,0,0
+1952,2019-06-14,Groupe UDI et Indépendants,1,0,0
+1952,2019-06-14,Groupe Libertés et Territoires,1,0,0
+1952,2019-06-14,Groupe La France insoumise,0,0,0
+1952,2019-06-14,Groupe de la Gauche démocrate et républicaine,0,0,1
+1952,2019-06-14,Non inscrits,1,0,0
+1951,2019-06-14,Groupe La République en Marche,0,26,0
+1951,2019-06-14,Groupe Les Républicains,0,2,0
+1951,2019-06-14,Groupe du Mouvement Démocrate et apparentés,0,2,0
+1951,2019-06-14,Groupe Socialistes et apparentés,1,0,0
+1951,2019-06-14,Groupe UDI et Indépendants,0,0,0
+1951,2019-06-14,Groupe Libertés et Territoires,0,0,0
+1951,2019-06-14,Groupe La France insoumise,1,0,0
+1951,2019-06-14,Groupe de la Gauche démocrate et républicaine,1,0,0
+1951,2019-06-14,Non inscrits,0,1,0
+1950,2019-06-14,Groupe La République en Marche,0,29,0
+1950,2019-06-14,Groupe Les Républicains,0,0,2
+1950,2019-06-14,Groupe du Mouvement Démocrate et apparentés,0,3,0
+1950,2019-06-14,Groupe Socialistes et apparentés,1,0,0
+1950,2019-06-14,Groupe UDI et Indépendants,0,0,1
+1950,2019-06-14,Groupe Libertés et Territoires,0,0,1
+1950,2019-06-14,Groupe La France insoumise,1,0,0
+1950,2019-06-14,Groupe de la Gauche démocrate et républicaine,1,0,0
+1950,2019-06-14,Non inscrits,1,0,1
+1949,2019-06-13,Groupe La République en Marche,2,25,1
+1949,2019-06-13,Groupe Les Républicains,0,0,3
+1949,2019-06-13,Groupe du Mouvement Démocrate et apparentés,1,1,0
+1949,2019-06-13,Groupe Socialistes et apparentés,2,0,0
+1949,2019-06-13,Groupe UDI et Indépendants,0,0,1
+1949,2019-06-13,Groupe Libertés et Territoires,1,0,0
+1949,2019-06-13,Groupe La France insoumise,0,0,0
+1949,2019-06-13,Groupe de la Gauche démocrate et républicaine,2,0,0
+1949,2019-06-13,Non inscrits,1,1,0
+1948,2019-06-13,Groupe La République en Marche,0,27,1
+1948,2019-06-13,Groupe Les Républicains,0,2,0
+1948,2019-06-13,Groupe du Mouvement Démocrate et apparentés,1,2,0
+1948,2019-06-13,Groupe Socialistes et apparentés,2,0,0
+1948,2019-06-13,Groupe UDI et Indépendants,1,0,0
+1948,2019-06-13,Groupe Libertés et Territoires,1,0,0
+1948,2019-06-13,Groupe La France insoumise,0,0,0
+1948,2019-06-13,Groupe de la Gauche démocrate et républicaine,2,0,0
+1948,2019-06-13,Non inscrits,0,0,1
+1947,2019-06-13,Groupe La République en Marche,0,27,1
+1947,2019-06-13,Groupe Les Républicains,0,3,0
+1947,2019-06-13,Groupe du Mouvement Démocrate et apparentés,1,2,0
+1947,2019-06-13,Groupe Socialistes et apparentés,2,0,0
+1947,2019-06-13,Groupe UDI et Indépendants,1,0,0
+1947,2019-06-13,Groupe Libertés et Territoires,1,0,0
+1947,2019-06-13,Groupe La France insoumise,0,0,0
+1947,2019-06-13,Groupe de la Gauche démocrate et républicaine,2,0,0
+1947,2019-06-13,Non inscrits,1,0,1
 1946,2019-06-13,Groupe La République en Marche,32,0,0
 1946,2019-06-13,Groupe Les Républicains,0,0,3
 1946,2019-06-13,Groupe du Mouvement Démocrate et apparentés,3,0,0
