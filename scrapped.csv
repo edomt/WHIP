@@ -1,4 +1,13 @@
 scrutin_id,date,group,pour,contre,abstention
+1955,2019-06-17,Groupe La République en Marche,16,0,0
+1955,2019-06-17,Groupe Les Républicains,2,0,0
+1955,2019-06-17,Groupe du Mouvement Démocrate et apparentés,3,0,0
+1955,2019-06-17,Groupe Socialistes et apparentés,0,0,3
+1955,2019-06-17,Groupe UDI et Indépendants,3,0,0
+1955,2019-06-17,Groupe Libertés et Territoires,1,0,0
+1955,2019-06-17,Groupe La France insoumise,0,0,0
+1955,2019-06-17,Groupe de la Gauche démocrate et républicaine,2,0,0
+1955,2019-06-17,Non inscrits,0,0,0
 1954,2019-06-14,Groupe La République en Marche,25,0,0
 1954,2019-06-14,Groupe Les Républicains,1,0,1
 1954,2019-06-14,Groupe du Mouvement Démocrate et apparentés,5,0,0
