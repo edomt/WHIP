@@ -1,4 +1,130 @@
 scrutin_id,date,group,pour,contre,abstention
+2004,2019-06-27,Groupe La République en Marche,38,0,0
+2004,2019-06-27,Groupe Les Républicains,1,0,0
+2004,2019-06-27,Groupe du Mouvement Démocrate et apparentés,5,0,0
+2004,2019-06-27,Groupe Socialistes et apparentés,1,0,0
+2004,2019-06-27,Groupe UDI et Indépendants,0,0,0
+2004,2019-06-27,Groupe Libertés et Territoires,2,0,0
+2004,2019-06-27,Groupe La France insoumise,0,0,2
+2004,2019-06-27,Groupe de la Gauche démocrate et républicaine,0,0,2
+2004,2019-06-27,Non inscrits,1,0,1
+2003,2019-06-27,Groupe La République en Marche,28,0,0
+2003,2019-06-27,Groupe Les Républicains,2,0,0
+2003,2019-06-27,Groupe du Mouvement Démocrate et apparentés,3,0,0
+2003,2019-06-27,Groupe Socialistes et apparentés,0,0,1
+2003,2019-06-27,Groupe UDI et Indépendants,1,0,0
+2003,2019-06-27,Groupe Libertés et Territoires,0,0,0
+2003,2019-06-27,Groupe La France insoumise,1,0,0
+2003,2019-06-27,Groupe de la Gauche démocrate et républicaine,0,0,1
+2003,2019-06-27,Non inscrits,2,0,0
+2002,2019-06-27,Groupe La République en Marche,1,25,1
+2002,2019-06-27,Groupe Les Républicains,2,0,0
+2002,2019-06-27,Groupe du Mouvement Démocrate et apparentés,0,3,1
+2002,2019-06-27,Groupe Socialistes et apparentés,1,0,0
+2002,2019-06-27,Groupe UDI et Indépendants,1,0,0
+2002,2019-06-27,Groupe Libertés et Territoires,0,0,0
+2002,2019-06-27,Groupe La France insoumise,0,0,0
+2002,2019-06-27,Groupe de la Gauche démocrate et républicaine,1,0,0
+2002,2019-06-27,Non inscrits,0,0,0
+2001,2019-06-27,Groupe La République en Marche,31,0,0
+2001,2019-06-27,Groupe Les Républicains,1,2,0
+2001,2019-06-27,Groupe du Mouvement Démocrate et apparentés,1,1,0
+2001,2019-06-27,Groupe Socialistes et apparentés,0,0,1
+2001,2019-06-27,Groupe UDI et Indépendants,0,0,2
+2001,2019-06-27,Groupe Libertés et Territoires,0,0,0
+2001,2019-06-27,Groupe La France insoumise,1,0,0
+2001,2019-06-27,Groupe de la Gauche démocrate et républicaine,0,0,1
+2001,2019-06-27,Non inscrits,2,0,0
+2000,2019-06-27,Groupe La République en Marche,0,32,0
+2000,2019-06-27,Groupe Les Républicains,4,0,0
+2000,2019-06-27,Groupe du Mouvement Démocrate et apparentés,0,4,1
+2000,2019-06-27,Groupe Socialistes et apparentés,0,1,0
+2000,2019-06-27,Groupe UDI et Indépendants,0,0,2
+2000,2019-06-27,Groupe Libertés et Territoires,0,0,0
+2000,2019-06-27,Groupe La France insoumise,0,1,0
+2000,2019-06-27,Groupe de la Gauche démocrate et républicaine,0,0,1
+2000,2019-06-27,Non inscrits,0,0,0
+1999,2019-06-27,Groupe La République en Marche,6,28,2
+1999,2019-06-27,Groupe Les Républicains,0,5,0
+1999,2019-06-27,Groupe du Mouvement Démocrate et apparentés,0,3,0
+1999,2019-06-27,Groupe Socialistes et apparentés,0,1,0
+1999,2019-06-27,Groupe UDI et Indépendants,0,2,0
+1999,2019-06-27,Groupe Libertés et Territoires,0,0,0
+1999,2019-06-27,Groupe La France insoumise,2,0,0
+1999,2019-06-27,Groupe de la Gauche démocrate et républicaine,0,1,0
+1999,2019-06-27,Non inscrits,1,0,0
+1998,2019-06-27,Groupe La République en Marche,7,26,2
+1998,2019-06-27,Groupe Les Républicains,0,5,0
+1998,2019-06-27,Groupe du Mouvement Démocrate et apparentés,0,3,0
+1998,2019-06-27,Groupe Socialistes et apparentés,0,1,0
+1998,2019-06-27,Groupe UDI et Indépendants,0,2,0
+1998,2019-06-27,Groupe Libertés et Territoires,1,0,0
+1998,2019-06-27,Groupe La France insoumise,2,0,0
+1998,2019-06-27,Groupe de la Gauche démocrate et républicaine,0,1,0
+1998,2019-06-27,Non inscrits,1,0,0
+1997,2019-06-27,Groupe La République en Marche,39,1,0
+1997,2019-06-27,Groupe Les Républicains,5,0,0
+1997,2019-06-27,Groupe du Mouvement Démocrate et apparentés,3,0,0
+1997,2019-06-27,Groupe Socialistes et apparentés,1,0,0
+1997,2019-06-27,Groupe UDI et Indépendants,1,0,0
+1997,2019-06-27,Groupe Libertés et Territoires,1,0,0
+1997,2019-06-27,Groupe La France insoumise,3,0,0
+1997,2019-06-27,Groupe de la Gauche démocrate et républicaine,0,1,0
+1997,2019-06-27,Non inscrits,2,0,0
+1996,2019-06-27,Groupe La République en Marche,36,0,0
+1996,2019-06-27,Groupe Les Républicains,0,5,0
+1996,2019-06-27,Groupe du Mouvement Démocrate et apparentés,3,0,0
+1996,2019-06-27,Groupe Socialistes et apparentés,0,0,1
+1996,2019-06-27,Groupe UDI et Indépendants,1,0,0
+1996,2019-06-27,Groupe Libertés et Territoires,0,0,2
+1996,2019-06-27,Groupe La France insoumise,0,2,0
+1996,2019-06-27,Groupe de la Gauche démocrate et républicaine,0,0,1
+1996,2019-06-27,Non inscrits,1,0,0
+1995,2019-06-27,Groupe La République en Marche,0,29,0
+1995,2019-06-27,Groupe Les Républicains,0,0,3
+1995,2019-06-27,Groupe du Mouvement Démocrate et apparentés,0,2,0
+1995,2019-06-27,Groupe Socialistes et apparentés,1,0,0
+1995,2019-06-27,Groupe UDI et Indépendants,0,0,0
+1995,2019-06-27,Groupe Libertés et Territoires,0,3,0
+1995,2019-06-27,Groupe La France insoumise,2,0,0
+1995,2019-06-27,Groupe de la Gauche démocrate et républicaine,1,0,0
+1995,2019-06-27,Non inscrits,1,0,0
+1994,2019-06-27,Groupe La République en Marche,26,0,0
+1994,2019-06-27,Groupe Les Républicains,3,0,0
+1994,2019-06-27,Groupe du Mouvement Démocrate et apparentés,6,0,0
+1994,2019-06-27,Groupe Socialistes et apparentés,1,0,0
+1994,2019-06-27,Groupe UDI et Indépendants,1,0,0
+1994,2019-06-27,Groupe Libertés et Territoires,3,0,0
+1994,2019-06-27,Groupe La France insoumise,2,0,0
+1994,2019-06-27,Groupe de la Gauche démocrate et républicaine,1,0,0
+1994,2019-06-27,Non inscrits,1,0,0
+1993,2019-06-27,Groupe La République en Marche,0,39,0
+1993,2019-06-27,Groupe Les Républicains,2,0,1
+1993,2019-06-27,Groupe du Mouvement Démocrate et apparentés,0,7,0
+1993,2019-06-27,Groupe Socialistes et apparentés,0,0,1
+1993,2019-06-27,Groupe UDI et Indépendants,1,0,0
+1993,2019-06-27,Groupe Libertés et Territoires,2,2,0
+1993,2019-06-27,Groupe La France insoumise,0,0,4
+1993,2019-06-27,Groupe de la Gauche démocrate et républicaine,0,0,1
+1993,2019-06-27,Non inscrits,0,2,0
+1992,2019-06-27,Groupe La République en Marche,19,1,0
+1992,2019-06-27,Groupe Les Républicains,4,0,0
+1992,2019-06-27,Groupe du Mouvement Démocrate et apparentés,2,0,0
+1992,2019-06-27,Groupe Socialistes et apparentés,0,1,0
+1992,2019-06-27,Groupe UDI et Indépendants,2,0,0
+1992,2019-06-27,Groupe Libertés et Territoires,1,0,0
+1992,2019-06-27,Groupe La France insoumise,0,2,0
+1992,2019-06-27,Groupe de la Gauche démocrate et républicaine,0,2,0
+1992,2019-06-27,Non inscrits,0,1,0
+1991,2019-06-26,Groupe La République en Marche,0,43,0
+1991,2019-06-26,Groupe Les Républicains,3,0,1
+1991,2019-06-26,Groupe du Mouvement Démocrate et apparentés,0,5,0
+1991,2019-06-26,Groupe Socialistes et apparentés,0,0,2
+1991,2019-06-26,Groupe UDI et Indépendants,2,0,0
+1991,2019-06-26,Groupe Libertés et Territoires,1,1,0
+1991,2019-06-26,Groupe La France insoumise,0,1,0
+1991,2019-06-26,Groupe de la Gauche démocrate et républicaine,1,0,0
+1991,2019-06-26,Non inscrits,1,1,0
 1990,2019-06-26,Groupe La République en Marche,0,49,0
 1990,2019-06-26,Groupe Les Républicains,6,0,0
 1990,2019-06-26,Groupe du Mouvement Démocrate et apparentés,0,9,0
