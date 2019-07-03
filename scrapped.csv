@@ -1,4 +1,85 @@
 scrutin_id,date,group,pour,contre,abstention
+2026,2019-07-03,Groupe La République en Marche,0,54,1
+2026,2019-07-03,Groupe Les Républicains,13,0,0
+2026,2019-07-03,Groupe du Mouvement Démocrate et apparentés,1,5,0
+2026,2019-07-03,Groupe Socialistes et apparentés,0,3,1
+2026,2019-07-03,Groupe UDI et Indépendants,2,0,0
+2026,2019-07-03,Groupe Libertés et Territoires,0,1,0
+2026,2019-07-03,Groupe La France insoumise,0,1,0
+2026,2019-07-03,Groupe de la Gauche démocrate et républicaine,0,1,0
+2026,2019-07-03,Non inscrits,2,1,1
+2025,2019-07-03,Groupe La République en Marche,0,74,0
+2025,2019-07-03,Groupe Les Républicains,1,14,0
+2025,2019-07-03,Groupe du Mouvement Démocrate et apparentés,1,9,0
+2025,2019-07-03,Groupe Socialistes et apparentés,1,5,1
+2025,2019-07-03,Groupe UDI et Indépendants,0,2,0
+2025,2019-07-03,Groupe Libertés et Territoires,2,0,0
+2025,2019-07-03,Groupe La France insoumise,3,0,0
+2025,2019-07-03,Groupe de la Gauche démocrate et républicaine,3,0,0
+2025,2019-07-03,Non inscrits,3,0,0
+2024,2019-07-02,Groupe La République en Marche,29,0,0
+2024,2019-07-02,Groupe Les Républicains,0,2,4
+2024,2019-07-02,Groupe du Mouvement Démocrate et apparentés,1,0,0
+2024,2019-07-02,Groupe Socialistes et apparentés,0,1,0
+2024,2019-07-02,Groupe UDI et Indépendants,2,0,1
+2024,2019-07-02,Groupe Libertés et Territoires,0,2,0
+2024,2019-07-02,Groupe La France insoumise,0,1,0
+2024,2019-07-02,Groupe de la Gauche démocrate et républicaine,0,1,0
+2024,2019-07-02,Non inscrits,0,0,3
+2023,2019-07-02,Groupe La République en Marche,28,0,1
+2023,2019-07-02,Groupe Les Républicains,0,6,0
+2023,2019-07-02,Groupe du Mouvement Démocrate et apparentés,1,0,0
+2023,2019-07-02,Groupe Socialistes et apparentés,0,1,0
+2023,2019-07-02,Groupe UDI et Indépendants,3,0,0
+2023,2019-07-02,Groupe Libertés et Territoires,0,1,1
+2023,2019-07-02,Groupe La France insoumise,0,1,0
+2023,2019-07-02,Groupe de la Gauche démocrate et républicaine,0,1,0
+2023,2019-07-02,Non inscrits,0,3,0
+2022,2019-07-02,Groupe La République en Marche,28,0,0
+2022,2019-07-02,Groupe Les Républicains,1,5,0
+2022,2019-07-02,Groupe du Mouvement Démocrate et apparentés,1,0,0
+2022,2019-07-02,Groupe Socialistes et apparentés,0,0,1
+2022,2019-07-02,Groupe UDI et Indépendants,3,0,0
+2022,2019-07-02,Groupe Libertés et Territoires,1,0,1
+2022,2019-07-02,Groupe La France insoumise,0,1,0
+2022,2019-07-02,Groupe de la Gauche démocrate et républicaine,0,0,1
+2022,2019-07-02,Non inscrits,0,2,1
+2021,2019-07-02,Groupe La République en Marche,0,28,0
+2021,2019-07-02,Groupe Les Républicains,6,0,0
+2021,2019-07-02,Groupe du Mouvement Démocrate et apparentés,0,1,0
+2021,2019-07-02,Groupe Socialistes et apparentés,1,0,0
+2021,2019-07-02,Groupe UDI et Indépendants,0,3,0
+2021,2019-07-02,Groupe Libertés et Territoires,2,0,0
+2021,2019-07-02,Groupe La France insoumise,1,0,0
+2021,2019-07-02,Groupe de la Gauche démocrate et républicaine,1,0,0
+2021,2019-07-02,Non inscrits,3,0,0
+2020,2019-07-02,Groupe La République en Marche,31,0,0
+2020,2019-07-02,Groupe Les Républicains,0,6,0
+2020,2019-07-02,Groupe du Mouvement Démocrate et apparentés,1,0,0
+2020,2019-07-02,Groupe Socialistes et apparentés,0,1,0
+2020,2019-07-02,Groupe UDI et Indépendants,3,0,0
+2020,2019-07-02,Groupe Libertés et Territoires,0,2,0
+2020,2019-07-02,Groupe La France insoumise,0,1,0
+2020,2019-07-02,Groupe de la Gauche démocrate et républicaine,0,1,0
+2020,2019-07-02,Non inscrits,0,3,0
+2019,2019-07-02,Groupe La République en Marche,0,31,0
+2019,2019-07-02,Groupe Les Républicains,6,0,0
+2019,2019-07-02,Groupe du Mouvement Démocrate et apparentés,0,1,0
+2019,2019-07-02,Groupe Socialistes et apparentés,0,1,1
+2019,2019-07-02,Groupe UDI et Indépendants,0,2,1
+2019,2019-07-02,Groupe Libertés et Territoires,2,0,0
+2019,2019-07-02,Groupe La France insoumise,1,0,0
+2019,2019-07-02,Groupe de la Gauche démocrate et républicaine,1,0,0
+2019,2019-07-02,Non inscrits,3,0,0
+2018,2019-07-02,Groupe La République en Marche,0,45,0
+2018,2019-07-02,Groupe Les Républicains,15,0,0
+2018,2019-07-02,Groupe du Mouvement Démocrate et apparentés,0,3,0
+2018,2019-07-02,Groupe Socialistes et apparentés,0,1,0
+2018,2019-07-02,Groupe UDI et Indépendants,0,5,0
+2018,2019-07-02,Groupe Libertés et Territoires,2,0,0
+2018,2019-07-02,Groupe La France insoumise,0,0,2
+2018,2019-07-02,Groupe de la Gauche démocrate et républicaine,0,0,2
+2018,2019-07-02,Non inscrits,4,0,0
 2017,2019-07-02,Groupe La République en Marche,0,48,0
 2017,2019-07-02,Groupe Les Républicains,24,0,2
 2017,2019-07-02,Groupe du Mouvement Démocrate et apparentés,0,4,0
