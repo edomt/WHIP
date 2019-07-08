@@ -1,4 +1,13 @@
 scrutin_id,date,group,pour,contre,abstention
+2038,2019-07-08,Groupe La République en Marche,10,0,0
+2038,2019-07-08,Groupe Les Républicains,0,0,1
+2038,2019-07-08,Groupe du Mouvement Démocrate et apparentés,4,0,0
+2038,2019-07-08,Groupe Socialistes et apparentés,0,0,0
+2038,2019-07-08,Groupe UDI et Indépendants,0,0,0
+2038,2019-07-08,Groupe Libertés et Territoires,0,0,0
+2038,2019-07-08,Groupe La France insoumise,0,0,0
+2038,2019-07-08,Groupe de la Gauche démocrate et républicaine,0,0,2
+2038,2019-07-08,Non inscrits,0,0,0
 2037,2019-07-04,Groupe La République en Marche,29,0,0
 2037,2019-07-04,Groupe Les Républicains,1,0,0
 2037,2019-07-04,Groupe du Mouvement Démocrate et apparentés,0,0,3
