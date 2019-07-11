@@ -1,4 +1,22 @@
 scrutin_id,date,group,pour,contre,abstention
+2044,2019-07-10,Groupe La République en Marche,45,0,0
+2044,2019-07-10,Groupe Les Républicains,9,0,0
+2044,2019-07-10,Groupe du Mouvement Démocrate et apparentés,3,0,0
+2044,2019-07-10,Groupe Socialistes et apparentés,5,0,0
+2044,2019-07-10,Groupe UDI et Indépendants,0,0,0
+2044,2019-07-10,Groupe Libertés et Territoires,2,0,0
+2044,2019-07-10,Groupe La France insoumise,0,1,0
+2044,2019-07-10,Groupe de la Gauche démocrate et républicaine,0,0,0
+2044,2019-07-10,Non inscrits,0,0,1
+2043,2019-07-10,Groupe La République en Marche,45,0,0
+2043,2019-07-10,Groupe Les Républicains,8,0,0
+2043,2019-07-10,Groupe du Mouvement Démocrate et apparentés,3,0,0
+2043,2019-07-10,Groupe Socialistes et apparentés,5,0,0
+2043,2019-07-10,Groupe UDI et Indépendants,0,0,0
+2043,2019-07-10,Groupe Libertés et Territoires,2,0,0
+2043,2019-07-10,Groupe La France insoumise,0,0,1
+2043,2019-07-10,Groupe de la Gauche démocrate et républicaine,0,0,0
+2043,2019-07-10,Non inscrits,1,0,0
 2042,2019-07-10,Groupe La République en Marche,96,0,0
 2042,2019-07-10,Groupe Les Républicains,21,5,12
 2042,2019-07-10,Groupe du Mouvement Démocrate et apparentés,11,0,0
